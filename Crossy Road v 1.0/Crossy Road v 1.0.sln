@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crossy Road v 1.0.Plugins", "Crossy Road v 1.0.Plugins.csproj", "{77AD5B37-207A-8F7D-EB13-FD9584C971A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crossy Road v 1.0", "Crossy Road v 1.0.csproj", "{19CD6698-CE6C-D733-9017-02B658D81140}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crossy Road v 1.0.Editor.Plugins", "Crossy Road v 1.0.Editor.Plugins.csproj", "{30EE3699-EEB4-B665-F936-39EC641752B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77AD5B37-207A-8F7D-EB13-FD9584C971A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77AD5B37-207A-8F7D-EB13-FD9584C971A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77AD5B37-207A-8F7D-EB13-FD9584C971A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77AD5B37-207A-8F7D-EB13-FD9584C971A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19CD6698-CE6C-D733-9017-02B658D81140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19CD6698-CE6C-D733-9017-02B658D81140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19CD6698-CE6C-D733-9017-02B658D81140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19CD6698-CE6C-D733-9017-02B658D81140}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30EE3699-EEB4-B665-F936-39EC641752B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30EE3699-EEB4-B665-F936-39EC641752B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30EE3699-EEB4-B665-F936-39EC641752B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30EE3699-EEB4-B665-F936-39EC641752B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
